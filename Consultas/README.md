@@ -1,0 +1,1 @@
+# Carpeta para guardar los archivos de texto de las consultas
